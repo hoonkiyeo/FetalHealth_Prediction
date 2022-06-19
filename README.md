@@ -24,8 +24,8 @@ ASTV (percentage of time with abnormal short term variability) is the most impor
 ### Feature Importance
 
 <p float="left">
-  <img width="250" height="250" alt="Screen Shot 2022-06-19 at 6 48 53 AM" src="https://user-images.githubusercontent.com/69660509/174479715-2f9cec81-9985-428a-a899-ff58098c3303.png">
-  <img width="250" height="250" alt="Screen Shot 2022-06-19 at 7 00 07 AM" src="https://user-images.githubusercontent.com/69660509/174479818-074cc87f-7c56-4010-b7cc-3d9d26bca2c2.png">
+  <img width="270" height="270" alt="Screen Shot 2022-06-19 at 6 48 53 AM" src="https://user-images.githubusercontent.com/69660509/174479715-2f9cec81-9985-428a-a899-ff58098c3303.png">
+  <img width="270" height="270" alt="Screen Shot 2022-06-19 at 7 00 07 AM" src="https://user-images.githubusercontent.com/69660509/174479818-074cc87f-7c56-4010-b7cc-3d9d26bca2c2.png">
 </p>
 
 

@@ -13,13 +13,22 @@ that boosting methods (XGBoost and Histogram Gradient
 Boosting) are the models that have the best performance
 and MSTV (mean value of short term variability) is the most
 important feature in the prediction based on XGBoost and
-ASTV (percentage of time with abnormal short term variability) is the most important feature in the prediction based on Random Forest
+ASTV (percentage of time with abnormal short term variability) is the most important feature in the prediction based on Random Forest.
 
-## Motivatoin
+### Test Accuracy
 
-## Description
+<img width="439" alt="Screen Shot 2022-06-19 at 6 47 30 AM" src="https://user-images.githubusercontent.com/69660509/174479666-e1f4af78-7e46-40e2-8cfe-31eb6621dfac.png">
+
+- The F1-score combines the precision and recall of a classifier into a single metric by taking their mean.
+### Feature Importance
+
+<img width="244" height="244" alt="Screen Shot 2022-06-19 at 6 48 53 AM" src="https://user-images.githubusercontent.com/69660509/174479715-2f9cec81-9985-428a-a899-ff58098c3303.png">
+<img width="244" height="244" alt="Screen Shot 2022-06-19 at 7 00 07 AM" src="https://user-images.githubusercontent.com/69660509/174479818-074cc87f-7c56-4010-b7cc-3d9d26bca2c2.png">
+
 
 ## Downside & Future Direction
+
+- Future direction on this study could be done in the way of more bountiful observations coupled with out- side of cardiotcography data such as more related infor- mation of a mother and genetic information. Plus, vari- ous multi-colinearity troubleshooting methods among his- togram columns will also be a great idea. Lastly, beyond just figuring out mere importance of features, applying var- ious feature extraction techniques to explain feature health would be ideal.
 
 ## Reference
 

@@ -37,7 +37,7 @@ ASTV (percentage of time with abnormal short term variability) is the most impor
 
 ## Downside & Future Direction
 
-- Future direction on this study could be done in the way of more bountiful observations coupled with out- side of cardiotcography data such as more related infor- mation of a mother and genetic information. Plus, vari- ous multi-colinearity troubleshooting methods among his- togram columns will also be a great idea. Lastly, beyond just figuring out mere importance of features, applying var- ious feature extraction techniques to explain feature health would be ideal.
+- Future direction on this study could be done in the way of more bountiful observations coupled with outside of cardiotcography data such as more related information of a mother and genetic information. Plus, various multicolinearity troubleshooting methods among histogram columns will also be a great idea. Lastly, beyond just figuring out mere importance of features, applying various feature extraction techniques to explain feature health would be ideal.
 
 ## Reference
 

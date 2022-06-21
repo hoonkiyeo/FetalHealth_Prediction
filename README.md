@@ -28,6 +28,11 @@ ASTV (percentage of time with abnormal short term variability) is the most impor
   <img width="290" height="290" alt="Screen Shot 2022-06-19 at 7 00 07 AM" src="https://user-images.githubusercontent.com/69660509/174479818-074cc87f-7c56-4010-b7cc-3d9d26bca2c2.png">
 </p>
 
+## Dataset
+
+- The dataset for this project are “Cardiotocography Dataset” provided by [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). Cardiotocography dataset contain 2126 fetal cardiotocograms(CTGs) with 23 features. The CTGs were classified by three expert obstetricians and a consensus classification label assigned to each of them. The 23 features consist of the following data fields.
+<img width="463" height="563" alt="Screen Shot 2022-06-20 at 10 20 48 PM" src="https://user-images.githubusercontent.com/69660509/174709517-2aa42e92-9f1b-41d7-b771-b7f85a888801.png">
+
 
 
 ## Downside & Future Direction
